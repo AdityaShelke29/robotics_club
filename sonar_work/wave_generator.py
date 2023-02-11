@@ -9,7 +9,7 @@ from matplotlib import pyplot as plt
 
 
 def create_wave(num_data_points, sampling_frequency, waveAdder):
-
+    
     # Used Parameters 
     # num_data_points, sampling_frequency, waveAdder are all used directly in the function. 
     # The waveAdder is in the format of [frequency, magnitude, starting time]
